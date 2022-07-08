@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou Renan Dias e bem vindo ao meu repositório!
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=renandias26&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandias26&langs_count=7&theme=github_dark&count_private=trueinclude_all_commits=true"/>
+</div>
 
-<!--
-**renandias26/renandias26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ATUALMENTE ESTUDANDO**
 
-Here are some ideas to get you started:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" widht="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" widht="30" />
+</div>
+  
+**JÁ ESTUDADO**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" widht="30" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" widht="30" />
+</div>
