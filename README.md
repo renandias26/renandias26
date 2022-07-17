@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" widht="30" />
 </div>
   
-**JÁ ESTUDADO**
+**TECNOLOGIAS JÁ VISTAS**
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" widht="30" /> 
