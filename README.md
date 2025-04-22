@@ -6,7 +6,7 @@
 
 ## 💡 Destaques
 
-- Otimizei aplicações WebForms melhorando performance em **50%**
+- Otimizei aplicações .NET melhorando performance em **50%**
 - Automatizei processos de deploy reduzindo tempo operacional em **30%**
 - Trabalhei com sistemas de **alto volume** (+1000 usuários diários)
 - Implementei integrações com serviços AWS (CloudFront, S3)
